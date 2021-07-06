@@ -6,8 +6,17 @@
 - Utilize electronic components: LCD, Buzzer, Remote 
 - C programming
 
-## Implementation
-![Design](https://github.com/khanhmai20/Alarm-System/blob/master/Asset/Schema.png)
+## Description
+1. System display temperature and humidity 
+2. System simulate clock module on screen 
+3. Clock module is adjustable by infrared remote
+4. Buzzer generate show when humidity above 85%, clock freezes. 
 
-## Result
+## Implementation
+![Design](/Asset/Schema.png)
+
+![Schema](/Asset/Design1.png)
+*Image needs to be rotate to be renderable*
+
+## Demonstration
 [Show case link](https://www.youtube.com/watch?v=FCC8KqhK0wc)
