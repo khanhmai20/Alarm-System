@@ -7,7 +7,7 @@
 - C programming
 
 ## Implementation
-![Design](https://github.com/khanhmai20/Alarm-System/blob/master/Asset/Schema.png)
+![Design](/Asset/Schema.png)
 
 ## Result
 [Show case link](https://www.youtube.com/watch?v=FCC8KqhK0wc)
